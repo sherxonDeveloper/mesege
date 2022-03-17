@@ -1,0 +1,23 @@
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+    background-color: #ffffff;
+}
+
+
+.hero__line{
+    width: 145px;
+    height: 0;
+    border: 1px solid #DDDDDD;
+}
+
+.hero__title{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    font-variant: small-caps;
+    color: #DDDDDD;
+}
